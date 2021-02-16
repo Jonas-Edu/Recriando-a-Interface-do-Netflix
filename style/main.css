@@ -95,6 +95,12 @@ header .logo{
      width: 70%;
  }
 
+ .box-filme {
+     height: 100%;
+     width: 100%;
+     display: block;
+ }
+
 
 
 
